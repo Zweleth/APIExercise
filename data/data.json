@@ -1,0 +1,37 @@
+{
+    "result":[
+        {
+            "id": 1,
+            "brand" : "Samsung",
+            "serialNumber": "00231",
+            "username": "David"
+
+        },
+        {
+            "id": 2,
+            "brand":"Lenovo",
+            "serialNumber": "00340",
+            "username": "John"
+        },
+        {
+            "id": 3,
+            "brand": "Asus",
+            "serialNumber": "00676",
+            "username": "Jeff"
+        },
+        {
+            "id": 4,
+            "brand": "hp",
+            "serialNumber": "00539",
+            "username": "Mellow"
+        },
+        {
+            "id": 5,
+            "brand": "Dell",
+            "serialNumber": "01230",
+            "username": "Dracula"
+        }
+
+        
+    ]
+}
